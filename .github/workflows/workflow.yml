@@ -42,4 +42,4 @@ jobs:
 
       - name: zappa actions
         run: |
-          zappa invoe apps.f
+          zappa invoke apps.f
