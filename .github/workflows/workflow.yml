@@ -40,6 +40,6 @@ jobs:
           aws-session-token: ${{secrets.AWS_SESSION_TOKEN}}
           aws-region: us-east-1
 
-      - name: zappa action
+      - name: zappa actions
         run: |
-          zappa invake apps.f
+          zappa invoe apps.f
