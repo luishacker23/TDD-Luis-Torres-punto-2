@@ -5,6 +5,6 @@
         "profile_name": "default",
         "project_name": "punto2",
         "runtime": "python3.7",
-        "s3_bucket": "zappa-t6gpp06qr"
+        "s3_bucket": "zappa-1bi1vkhpm"
     }
 }
